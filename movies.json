@@ -16,17 +16,23 @@
         "movieLink": "https://www.imdb.com/title/tt1211837/",
         "user": "Astha167",
         "githubLink": "https://github.com/Astha167"
-},
+    },
     {
-    "title": "Harry Potter and the Sorcerer's Stone",
-    "movieLink": "https://www.imdb.com/title/tt0241527/",
-    "user": "aggarwal-tanushree",
-    "githubLink": "https://github.com/aggarwal-tanushree"
-},
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "movieLink": "https://www.imdb.com/title/tt0241527/",
+        "user": "aggarwal-tanushree",
+        "githubLink": "https://github.com/aggarwal-tanushree"
+    },
     {
-    "title": "Interstellar",
-    "movieLink": "https://www.imdb.com/title/tt0816692/",
-    "user": "aursh24",
-    "githubLink": "https://github.com/aursh24"
-}
+        "title": "Interstellar",
+        "movieLink": "https://www.imdb.com/title/tt0816692/",
+        "user": "aursh24",
+        "githubLink": "https://github.com/aursh24"
+    },
+		{
+			"title": "The Rock",
+			"movieLink": "https://www.imdb.com/title/tt0117500/",
+			"user": "MaximilianoCabreraP",
+			"githubLink": "https://github.com/MaximilianoCabreraP"
+		}
 ]
